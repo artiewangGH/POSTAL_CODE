@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T07:25:22.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yCxtXSxdv8hOt5VnstXy" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T07:34:14.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="vb8CQr0Ohn9bM_Pb-Lxv" version="21.6.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1313" dy="678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Vc_qNqWKN2TwWsNFO-2Q-61" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="25" y="40" width="1050" height="760" as="geometry" />
+          <mxGeometry x="39" y="81" width="1050" height="760" as="geometry" />
         </mxCell>
         <mxCell id="Vc_qNqWKN2TwWsNFO-2Q-7" value="&lt;font face=&quot;Tahoma&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 34px;&quot;&gt;POSTAL CODE (Oracle)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1490FC;strokeColor=#000000;strokeWidth=2;flipH=1;flipV=1;" vertex="1" parent="Vc_qNqWKN2TwWsNFO-2Q-61">
           <mxGeometry x="95" width="860" height="60" as="geometry" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="Vc_qNqWKN2TwWsNFO-2Q-46" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#04A597;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_oracle_instance;container=0;" vertex="1" parent="Vc_qNqWKN2TwWsNFO-2Q-57">
           <mxGeometry x="360" y="310" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc_qNqWKN2TwWsNFO-2Q-62" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#04A597;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.gear_load" vertex="1" parent="Vc_qNqWKN2TwWsNFO-2Q-57">
+          <mxGeometry x="179" y="74" width="145" height="133.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
